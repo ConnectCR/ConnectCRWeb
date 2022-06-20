@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ConnectCRWeb/static/css/main.d074e46d.css",
-    "main.js": "/ConnectCRWeb/static/js/main.6538beee.js",
+    "main.js": "/ConnectCRWeb/static/js/main.aac73980.js",
     "static/js/787.f3f32dd8.chunk.js": "/ConnectCRWeb/static/js/787.f3f32dd8.chunk.js",
     "index.html": "/ConnectCRWeb/index.html",
     "main.d074e46d.css.map": "/ConnectCRWeb/static/css/main.d074e46d.css.map",
-    "main.6538beee.js.map": "/ConnectCRWeb/static/js/main.6538beee.js.map",
+    "main.aac73980.js.map": "/ConnectCRWeb/static/js/main.aac73980.js.map",
     "787.f3f32dd8.chunk.js.map": "/ConnectCRWeb/static/js/787.f3f32dd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d074e46d.css",
-    "static/js/main.6538beee.js"
+    "static/js/main.aac73980.js"
   ]
 }
