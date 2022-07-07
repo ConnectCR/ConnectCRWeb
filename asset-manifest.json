@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d9d98bd8.css",
-    "main.js": "/static/js/main.6e3c12f4.js",
-    "static/js/787.f3f32dd8.chunk.js": "/static/js/787.f3f32dd8.chunk.js",
-    "index.html": "/index.html",
-    "main.d9d98bd8.css.map": "/static/css/main.d9d98bd8.css.map",
-    "main.6e3c12f4.js.map": "/static/js/main.6e3c12f4.js.map",
-    "787.f3f32dd8.chunk.js.map": "/static/js/787.f3f32dd8.chunk.js.map"
+    "main.css": "/ConnectCRWeb/static/css/main.d9d98bd8.css",
+    "main.js": "/ConnectCRWeb/static/js/main.7315c5e0.js",
+    "static/js/787.f3f32dd8.chunk.js": "/ConnectCRWeb/static/js/787.f3f32dd8.chunk.js",
+    "index.html": "/ConnectCRWeb/index.html",
+    "main.d9d98bd8.css.map": "/ConnectCRWeb/static/css/main.d9d98bd8.css.map",
+    "main.7315c5e0.js.map": "/ConnectCRWeb/static/js/main.7315c5e0.js.map",
+    "787.f3f32dd8.chunk.js.map": "/ConnectCRWeb/static/js/787.f3f32dd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9d98bd8.css",
-    "static/js/main.6e3c12f4.js"
+    "static/js/main.7315c5e0.js"
   ]
 }
